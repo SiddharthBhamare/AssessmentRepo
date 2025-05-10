@@ -1,0 +1,6 @@
+@ChipsAggregator.Service_HostAddress = http://localhost:5270
+
+GET {{ChipsAggregator.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
